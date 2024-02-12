@@ -10,6 +10,7 @@ Our product stands out by ensuring private keys never leave the hardware device,
 
 # Cypherock Wallet + Google Summer of Code, 2024
 Welcome to the main resource for all things related to Cypherock Wallet's participation in Google Summer of Code, 2024. We're thrilled to join as a mentoring organization, aiming to foster innovation and education in the open-source community through collaboration on exciting projects.
+We encourage prospective students to review [our project ideas](https://github.com/Cypherock/gsoc/blob/main/2024/README.md).
 
 ## What is Google Summer of Code?
 
@@ -55,7 +56,7 @@ Applicants should have proficiency in at-least one of the following:
 * Embedded systems
 * or other relevant technologies depending on the project. 
 
-We encourage prospective students to review [our project ideas](https://github.com/Cypherock/cypherock-wallet/gsoc/2024/project-ideas-2024), connect with mentors for detailed project insights, and apply accordingly.
+We encourage prospective students to review [our project ideas](https://github.com/Cypherock/gsoc/blob/main/2024/README.md), connect with mentors for detailed project insights, and apply accordingly.
 
 Mentors are keen to understand an applicant's interest in a project, their skill set, and how they plan to achieve project goals.
 
