@@ -75,7 +75,7 @@ This project involves researching and implementing the necessary protocols and s
 * ElectronJS
 * blockchain-specific libraries and APIs for the selected coins.
 
-**Estimated Time** : 300-400 hours
+**Estimated Time** : 350 hours
 
 **References**:
 
@@ -100,7 +100,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 * RESTful APIs for backend communication
 * secure storage for sensitive data
 
-**Estimated Time**: 400-600 hours
+**Estimated Time**: 350 hours
 
 **References**:
 
@@ -121,9 +121,9 @@ transaction history, and secure communication with the Cypherock hardware wallet
 * OAuth for authentication,
 * Cryptography
 
-**Estimated Time**: 200-400 hours
+**Estimated Time**: 350 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** : Medium
 
 
 
@@ -138,7 +138,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - ReactJS, Redux
 - ElectronJS
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 175 hours
 
 **References**:
 
@@ -159,7 +159,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - Unit test frameworks in C (Unity)
 - Github Actions
 
-**Estimated Time**: 200-400 hours
+**Estimated Time**: 175 hours
 
 **References**:
 
@@ -176,9 +176,9 @@ transaction history, and secure communication with the Cypherock hardware wallet
 
 **Tech Stack**: Emulation tools like QEMU, and programming languages used in the wallet's development (C/C++ for firmware, JavaScript for web interfaces), SDL2.
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 350 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** :  Hard
 
 
 ### 7. Multi-Party-Computation (MPC) based threshold signing on X1 Vault
@@ -192,7 +192,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - Cryptography
 
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 350 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** :  Hard
 
